@@ -38,7 +38,7 @@ export default function Footer() {
           <div className="footer-col" style={{ maxWidth: 320 }}>
             <b>Studio</b>
             <p style={{ color: 'var(--ink-soft)', fontFamily: 'var(--serif)', fontSize: '1.05rem', lineHeight: 1.55 }}>
-              A digital &amp; creative studio for businesses of any size — building, branding and growing digital presences.
+              A digital &amp; creative studio for businesses of any size building, branding and growing digital presences.
             </p>
           </div>
         </div>
@@ -46,7 +46,7 @@ export default function Footer() {
         <div className="footer-bottom">
           <span>© 2026 VERA. All rights reserved.</span>
           <span>
-            We don&rsquo;t just make websites — <a href="#top">we create digital experiences ↗</a>
+            We don&rsquo;t just make websites <a href="#top">we create digital experiences ↗</a>
           </span>
         </div>
       </div>
