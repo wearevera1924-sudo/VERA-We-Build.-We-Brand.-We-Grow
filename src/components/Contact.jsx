@@ -141,7 +141,7 @@ export default function Contact() {
                 SEND VIA WHATSAPP <span className="u-grow-arrow">↗</span>
               </button>
               <p className="form-note">
-                Opens WhatsApp with your message ready — or use the{' '}
+                Opens WhatsApp with your message ready or use the{' '}
                 <a href={CONTACT_LINKS.googleForm} target="_blank" rel="noreferrer" style={{ color: 'var(--royal)', textDecoration: 'underline' }}>
                   Google Form ↗
                 </a>
