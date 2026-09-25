@@ -9,7 +9,7 @@ const testimonials = [
   {
     quote:
       "VERA helped bring my brand vision to life with a beautiful brand identity and collection. Everything felt thoughtful, premium, and true to the vision I had in mind. Absolutely loved the final outcome",
-    name: "Aditi",
+    name: "Diya",
     company: "Adriti",
     role: "Founder",
     avatar: null

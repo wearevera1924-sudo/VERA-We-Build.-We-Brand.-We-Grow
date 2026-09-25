@@ -46,7 +46,7 @@ export default function Hero() {
 
             <FadeUp delay={0.34}>
               <p className="hero-sub">
-                VERA is a digital &amp; creative partner for local businesses, startups and personal brands turning ideas into memorable websites, brands and growth.
+               VERA is a creative digital agency in Gujarat helping businesses, startups and personal brands with web design, graphic design, branding, app development, digital marketing and content creation.
               </p>
             </FadeUp>
 

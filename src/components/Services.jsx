@@ -86,7 +86,7 @@ export default function Services() {
         <div className="services-wrap">
           {/* Sticky editorial index */}
           <div className="svc-left">
-            <p className="section-label"><b></b> Services</p>
+            <p className="section-label"><b></b> Creative & Digital Services </p>
             <div className="svc-bignum" aria-hidden="true">0{active + 1}</div>
             <p className="svc-poem">{POEM}</p>
             <div className="svc-progress" aria-hidden="true">
